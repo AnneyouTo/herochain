@@ -1,0 +1,18 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "Hero.js",
+  "scripts": {
+    "test": "herochain92@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "herochain92@gmail.com"
+  },
+  "keywords": [
+    "Herochain92"
+  ],
+  "author": "033357",
+  "license": "ISC"
+}
